@@ -1,0 +1,12 @@
+ SELECT DISTINCT source FROM ecommerce_sales ORDER BY source DESC;
+   source
+-------------
+ video
+ promotions
+ paid social
+ paid search
+ mobile
+ direct
+(6 rows)
+
+

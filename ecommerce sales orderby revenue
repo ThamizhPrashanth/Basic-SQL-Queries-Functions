@@ -1,0 +1,1953 @@
+
+ SELECT product FROM ecommerce_sales ORDER BY revenue DESC;
+               product
+-------------------------------------
+ Ecolab - Orange Frc, Cleaner
+ Trout - Hot Smkd, Dbl Fillet
+ Pork - Inside
+ Lamb - Shoulder
+ Bread - Onion Focaccia
+ Soup - French Onion
+ Alize Gold Passion
+ Crab Meat Claw Pasteurise
+ Beer - Upper Canada Lager
+ Pepper - Red Chili
+ Mop Head - Cotton, 24 Oz
+ Cocoa Feuilletine
+ Pepper - Red Thai
+ Pomello
+ Pastry - Apple Muffins - Mini
+ Snapple - Iced Tea Peach
+ Irish Cream - Baileys
+ Sauce - Demi Glace
+ Bread - Dark Rye, Loaf
+ Long Island Ice Tea
+ Chicken - Soup Base
+ Ecolab - Solid Fusion
+ Greens Mustard
+ Wine - Vovray Sec Domaine Huet
+ Bread - 10 Grain
+ Alize Sunset
+ Corn - On The Cob
+ Tuna - Yellowfin
+ Wine - Red, Gamay Noir
+ Tomatoes Tear Drop Yellow
+ Cheese - Camembert
+ Garlic - Primerba, Paste
+ V8 Pet
+ Wine - Red, Cabernet Sauvignon
+ Water Chestnut - Canned
+ Flour - Whole Wheat
+ Wasabi Paste
+ Wine - Casablanca Valley
+ Turnip - Wax
+ Juice - Apple Cider
+ Glass Clear 8 Oz
+ Beer - Creemore
+ Coke - Classic, 355 Ml
+ Daves Island Stinger
+ Clams - Canned
+ Muskox - French Rack
+ Lentils - Green, Dry
+ Bread - Hamburger Buns
+ Pasta - Fettuccine, Egg, Fresh
+ Chicken - Base, Ultimate
+ Lamb - Shoulder
+ Beer - Mill St Organic
+ Pepper - Green
+ Juice Peach Nectar
+ Daves Island Stinger
+ Dragon Fruit
+ Ice Cream Bar - Oreo Cone
+ Bar Mix - Pina Colada, 355 Ml
+ Stock - Fish
+ Mushroom - Lg - Cello
+ Flour - Fast / Rapid
+ Chocolate - Milk, Callets
+ Beer - Paulaner Hefeweisse
+ Towel Dispenser
+ Flavouring Vanilla Artificial
+ Napkin - Beverage 1 Ply
+ Soap - Mr.clean Floor Soap
+ Salt - Celery
+ Appetizer - Shrimp Puff
+ Wine - Red, Black Opal Shiraz
+ Appetizer - Cheese Bites
+ Juice - Happy Planet
+ Cheese - Bocconcini
+ Towels - Paper / Kraft
+ Hipnotiq Liquor
+ Lamb - Sausage Casings
+ Cake - Box Window 10x10x2.5
+ Melon - Watermelon Yellow
+ Cookies Oatmeal Raisin
+ Flour - Masa De Harina Mexican
+ Mangoes
+ Dill Weed - Fresh
+ Flavouring Vanilla Artificial
+ Oven Mitt - 13 Inch
+ Hummus - Spread
+ Bread - White, Sliced
+ Goat - Leg
+ Cheese - Bakers Cream Cheese
+ Puree - Pear
+ Ecolab - Mikroklene 4/4 L
+ Cumin - Ground
+ Spring Roll Wrappers
+ Lambcasing
+ Bread - Raisin Walnut Pull
+ Sprouts Dikon
+ Beef - Texas Style Burger
+ Cheese - Cheddarsliced
+ Sprouts - Alfalfa
+ Sea Bass - Whole
+ Wine - Red, Harrow Estates, Cab
+ Vermouth - White, Cinzano
+ Cheese - Pied De Vents
+ Wine - Touraine Azay - Le - Rideau
+ Pasta - Fett Alfredo, Single Serve
+ Calypso - Lemonade
+ Bar Mix - Pina Colada, 355 Ml
+ Kellogs Raisan Bran Bars
+ Steampan - Foil
+ Soup - Cream Of Potato / Leek
+ Longos - Chicken Cordon Bleu
+ Soup - French Onion, Dry
+ Dish Towel
+ Wine - Blue Nun Qualitatswein
+ Bagel - Whole White Sesame
+ Pears - Bosc
+ Cake Slab
+ Bread - White, Sliced
+ Sugar - Crumb
+ Wine - Chardonnay South
+ Plate Foam Laminated 9in Blk
+ Beer - Corona
+ Shrimp - 21/25, Peel And Deviened
+ Rhubarb
+ Muskox - French Rack
+ Pastry - Butterscotch Baked
+ Pasta - Fusili, Dry
+ Goulash Seasoning
+ Seedlings - Mix, Organic
+ Dr. Pepper - 355ml
+ Bread - Bagels, Plain
+ Tart Shells - Savory, 3
+ Lemonade - Black Cherry, 591 Ml
+ Halibut - Fletches
+ Chips - Doritos
+ Daikon Radish
+ Nori Sea Weed - Gold Label
+ Cake Slab
+ Foil Cont Round
+ Wine - Ruffino Chianti Classico
+ Soup - Campbells, Classic Chix
+ Coffee - French Vanilla Frothy
+ Mcgillicuddy Vanilla Schnap
+ Yogurt - Cherry, 175 Gr
+ Rice - Wild
+ Island Oasis - Strawberry
+ Blouse / Shirt / Sweater
+ Longos - Grilled Chicken With
+ Coffee Swiss Choc Almond
+ Vinegar - Sherry
+ Mortadella
+ Rum - Mount Gay Eclipes
+ Skirt - 24 Foot
+ Tea - Herbal - 6 Asst
+ Mushroom - Shitake, Dry
+ Cherries - Fresh
+ Beef - Kindney, Whole
+ Rice - Sushi
+ Appetizer - Escargot Puff
+ Urban Zen Drinks
+ Quail - Eggs, Fresh
+ Pail For Lid 1537
+ Longan
+ Cake - Cake Sheet Macaroon
+ Ice Cream Bar - Oreo Sandwich
+ Wine - Sogrape Mateus Rose
+ Wine - Spumante Bambino White
+ Pastry - Chocolate Chip Muffin
+ Cheese - Cheddar, Mild
+ Cinnamon Buns Sticky
+ Juice - Orange
+ Chicken - Wings, Tip Off
+ Onions - Pearl
+ Quiche Assorted
+ Apple - Custard
+ Curry Powder Madras
+ Tamarillo
+ Shrimp - 31/40
+ Pate Pans Yellow
+ Soho Lychee Liqueur
+ Celery Root
+ Nut - Walnut, Pieces
+ Soup - Knorr, Classic Can. Chili
+ Syrup - Monin, Irish Cream
+ Wine - Rioja Campo Viejo
+ Nantucket - Pomegranate Pear
+ Cinnamon - Stick
+ Straw - Regular
+ Yogurt - Blueberry, 175 Gr
+ Pastry - Key Limepoppy Seed Tea
+ Soup - French Onion
+ Beef Tenderloin Aaa
+ Dried Peach
+ Soup - Campbells Asian Noodle
+ Wine - Baron De Rothschild
+ Haggis
+ Apple - Granny Smith
+ Garlic - Elephant
+ Wine - Cava Aria Estate Brut
+ Beef - Cow Feet Split
+ Juice - Apple Cider
+ Coconut Milk - Unsweetened
+ Salad Dressing
+ Ice Cream Bar - Oreo Cone
+ Goldschalger
+ Syrup - Monin, Irish Cream
+ Calvados - Boulard
+ Cookies - Englishbay Chochip
+ Sauce - Chili
+ Wine - White, Lindemans Bin 95
+ Bandage - Finger Cots
+ Cookies - Englishbay Wht
+ Wine - Pinot Noir Mondavi Coastal
+ Amaretto
+ Ecolab - Mikroklene 4/4 L
+ Lettuce - Boston Bib
+ Lamb - Ground
+ Apricots - Halves
+ Nut - Pecan, Halves
+ Curry Powder
+ Bagelers - Cinn / Brown
+ Bread - Roll, Soft White Round
+ Breakfast Quesadillas
+ Ice Cream Bar - Drumstick
+ Pasta - Canelloni
+ Pork - Kidney
+ Wine - White, Mosel Gold
+ Parasol Pick Stir Stick
+ Shrimp - Black Tiger 6 - 8
+ Quail - Whole, Boneless
+ Seabream Whole Farmed
+ Wine - Montecillo Rioja Crianza
+ Bananas
+ Glass - Juice Clear 5oz 55005
+ Cookies - Fortune
+ Lemon Pepper
+ Apricots - Dried
+ Juice - Orange, 341 Ml
+ Beef - Bresaola
+ Pepper - Black, Crushed
+ Nescafe - Frothy French Vanilla
+ Juice - Pineapple, 341 Ml
+ Cheese - Mozzarella, Shredded
+ Octopus
+ Pur Source
+ Crab - Back Fin Meat, Canned
+ Ham - Proscuitto
+ Tomatoes Tear Drop
+ The Pop Shoppe - Black Cherry
+ Ecolab - Balanced Fusion
+ Bacardi Raspberry
+ Bread - Granary Small Pull
+ Yeast Dry - Fleischman
+ Squid Ink
+ Lid Coffee Cup 8oz Blk
+ Dikon
+ Soup - Campbells, Beef Barley
+ Onion Powder
+ Compound - Pear
+ Pie Filling - Cherry
+ Beans - Black Bean, Canned
+ Sauce - Plum
+ Crab Brie In Phyllo
+ Bread - Bistro Sour
+ Grapefruit - Pink
+ Compound - Orange
+ Soup - Canadian Pea, Dry Mix
+ Leeks - Large
+ Vinegar - Champagne
+ Pear - Packum
+ Curry Paste - Green Masala
+ Pancetta
+ Oil - Margarine
+ Bread - French Baquette
+ Bacardi Breezer - Tropical
+ Wine - Harrow Estates, Vidal
+ Oil - Truffle, Black
+ Soup Campbells Mexicali Tortilla
+ Wine - Vidal Icewine Magnotta
+ Beef - Ground Lean Fresh
+ Ham - Smoked, Bone - In
+ Beef - Short Loin
+ Mushroom - Lg - Cello
+ Bacardi Breezer - Strawberry
+ Beer - Original Organic Lager
+ Wine - Chardonnay South
+ Truffle Cups Green
+ Bar Energy Chocchip
+ Cookie - Oreo 100x2
+ Pasta - Orecchiette
+ Sprouts Dikon
+ Arrowroot
+ Mcgillicuddy Vanilla Schnap
+ Spaghetti Squash
+ Spring Roll Wrappers
+ Spinach - Baby
+ Wine - Baron De Rothschild
+ Beans - Fine
+ Anisette - Mcguiness
+ Oil - Pumpkinseed
+ Russian Prince
+ Yogurt - Banana, 175 Gr
+ Soup - French Can Pea
+ Soup - Boston Clam Chowder
+ Pail - 15l White, With Handle
+ Pork - Liver
+ V8 - Berry Blend
+ Soup - Campbells Beef Stew
+ Lemon Balm - Fresh
+ Edible Flower - Mixed
+ Tea Leaves - Oolong
+ Wine - Casillero Deldiablo
+ Bread - Roll, Whole Wheat
+ Ostrich - Prime Cut
+ Soup - French Onion, Dry
+ Neckerchief Blck
+ Pepper - Jalapeno
+ Chilli Paste, Ginger Garlic
+ Potatoes - Idaho 80 Count
+ Yeast - Fresh, Fleischman
+ Liqueur Banana, Ramazzotti
+ Thyme - Lemon, Fresh
+ Pepper - Jalapeno
+ Bacon Strip Precooked
+ Lamb - Shoulder
+ Chicken - Leg, Boneless
+ Scotch - Queen Anne
+ Fudge - Cream Fudge
+ Arizona - Green Tea
+ Rice Pilaf, Dry,package
+ Flower - Dish Garden
+ Flower - Daisies
+ Turnip - Mini
+ Sobe - Liz Blizz
+ Wine - Vidal Icewine Magnotta
+ Sword Pick Asst
+ Apple - Macintosh
+ Turkey - Oven Roast Breast
+ Horseradish - Prepared
+ Jam - Marmalade, Orange
+ Thermometer Digital
+ Melon - Honey Dew
+ Blueberries - Frozen
+ Squash - Acorn
+ Cauliflower
+ Beer - Pilsner Urquell
+ Foam Tray S2
+ Wine - Barolo Fontanafredda
+ Shark - Loin
+ Wine - Muscadet Sur Lie
+ Muffin Chocolate Individual Wrap
+ Bananas
+ Pomegranates
+ Cleaner - Bleach
+ Cheese - Comte
+ Cookies - Oreo, 4 Pack
+ Cookies - Fortune
+ Energy Drink
+ Puree - Guava
+ Sproutsmustard Cress
+ Tomato - Green
+ Pail - 4l White, With Handle
+ Mangoes
+ Sunflower Seed Raw
+ Bread - Crumbs, Bulk
+ Pastry - Banana Tea Loaf
+ Soup - Cream Of Potato / Leek
+ Cheese - Pont Couvert
+ Soup - Knorr, French Onion
+ Rice - Wild
+ Glass - Wine, Plastic, Clear 5 Oz
+ Salmon - Sockeye Raw
+ Cheese - Provolone
+ Rosemary - Dry
+ Lemonade - Strawberry, 591 Ml
+ Lid - 3oz Med Rec
+ Longos - Cheese Tortellini
+ Crab - Dungeness, Whole
+ Sauce - Sesame Thai Dressing
+ Cake - Dulce De Leche
+ Pork Ham Prager
+ Vermouth - Sweet, Cinzano
+ Wine - Chenin Blanc K.w.v.
+ Lettuce - Lolla Rosa
+ Bread - Malt
+ Trout - Hot Smkd, Dbl Fillet
+ External Supplier
+ Wine - Lamancha Do Crianza
+ Ham - Smoked, Bone - In
+ Pie Box - Cello Window 2.5
+ Bread - Ciabatta Buns
+ Saskatoon Berries - Frozen
+ Sobe - Lizard Fuel
+ Appetizer - Lobster Phyllo Roll
+ Lamb - Shanks
+ Yogurt - French Vanilla
+ Foam Espresso Cup Plain White
+ Spaghetti Squash
+ Pasta - Canelloni
+ Sloe Gin - Mcguinness
+ Cheese - Parmigiano Reggiano
+ Sachet
+ Dasheen
+ Salmon Steak - Cohoe 6 Oz
+ Pork - Loin, Bone - In
+ Extract - Almond
+ Cream - 35%
+ Chocolate - Feathers
+ Crab - Dungeness, Whole, live
+ Pastry - Chocolate Chip Muffin
+ Steel Wool S.o.s
+ Nut - Almond, Blanched, Sliced
+ Steampan Lid
+ Table Cloth 53x69 White
+ Blouse / Shirt / Sweater
+ Beets
+ Pork - Hock And Feet Attached
+ Crab - Back Fin Meat, Canned
+ Paper Cocktail Umberlla 80 - 180
+ Island Oasis - Pina Colada
+ Bread - Frozen Basket Variety
+ Nut - Almond, Blanched, Whole
+ Cookies Almond Hazelnut
+ Steam Pan - Half Size Deep
+ Asparagus - Green, Fresh
+ Mousse - Passion Fruit
+ Sauce - Plum
+ Table Cloth - 53x69 Colour
+ Slt - Individual Portions
+ Bag Clear 10 Lb
+ Lid - 0090 Clear
+ Wine - Chianti Classico Riserva
+ Pasta - Elbows, Macaroni, Dry
+ Soup - Chicken And Wild Rice
+ Radish
+ Rice - Long Grain
+ Lentils - Red, Dry
+ Breadfruit
+ Crush - Orange, 355ml
+ Cheese - Pont Couvert
+ Irish Cream - Butterscotch
+ Syrup - Monin - Blue Curacao
+ Longan
+ Wakami Seaweed
+ Ecolab - Power Fusion
+ Veal - Leg, Provimi - 50 Lb Max
+ Veal - Inside, Choice
+ Bread - Raisin Walnut Oval
+ Bar Mix - Lemon
+ Wanton Wrap
+ Rum - Light, Captain Morgan
+ Butter Ripple - Phillips
+ Cakes Assorted
+ Apples - Spartan
+ Radish - Black, Winter, Organic
+ Shiro Miso
+ Cranberry Foccacia
+ Chickhen - Chicken Phyllo
+ Latex Rubber Gloves Size 9
+ Sauerkraut
+ Cheese - Montery Jack
+ Ice Cream Bar - Oreo Cone
+ Hot Choc Vending
+ Galliano
+ Yogurt - Cherry, 175 Gr
+ Beer - Alexander Kieths, Pale Ale
+ Cookies Cereal Nut
+ Ostrich - Prime Cut
+ Sobe - Green Tea
+ Veal - Provimi Inside
+ Mini - Vol Au Vents
+ Rambutan
+ Chef Hat 20cm
+ Soup - Knorr, Chicken Noodle
+ Lobster - Live
+ Beans - Green
+ Lid - 3oz Med Rec
+ Steel Wool S.o.s
+ Container - Foam Dixie 12 Oz
+ Syrup - Monin - Granny Smith
+ Lettuce - Frisee
+ Vegetable - Base
+ Soup - Campbells, Creamy
+ Bread Fig And Almond
+ Beef Dry Aged Tenderloin Aaa
+ Beer - Labatt Blue
+ Fennel
+ Wine - Chateauneuf Du Pape
+ Onions - Cooking
+ Juice - Tomato, 10 Oz
+ Danishes - Mini Cheese
+ Glove - Cutting
+ Gooseberry
+ Juice - Cranberry, 341 Ml
+ Oil - Coconut
+ Bread - Calabrese Baguette
+ Chocolate Liqueur - Godet White
+ Cheese - Provolone
+ Strawberries - California
+ Pepper - Cubanelle
+ Calaloo
+ Milk - Chocolate 250 Ml
+ Grapes - Red
+ Plastic Wrap
+ Doilies - 8, Paper
+ Cheese - Pont Couvert
+ Pasta - Detalini, White, Fresh
+ Carrots - Jumbo
+ Juice - Orangina
+ Wine - Barbera Alba Doc 2001
+ Pasta - Fusili Tri - Coloured
+ Rum - Coconut, Malibu
+ Wine - Chablis 2003 Champs
+ Soupfoamcont12oz 112con
+ Ecolab - Power Fusion
+ Beer - Guiness
+ Avocado
+ Bread - Rye
+ Wine - Casillero Del Diablo
+ Pasta - Cannelloni, Sheets, Fresh
+ Roe - Lump Fish, Black
+ Wine - Rosso Toscano Igt
+ Veal - Chops, Split, Frenched
+ Skirt - 29 Foot
+ Nut - Pumpkin Seeds
+ Rum - Dark, Bacardi, Black
+ Sauce - Apple, Unsweetened
+ Nougat - Paste / Cream
+ Chicken - White Meat, No Tender
+ Sponge Cake Mix - Vanilla
+ Chicken - Diced, Cooked
+ Artichokes - Knobless, White
+ Fireball Whisky
+ Rum - Cream, Amarula
+ Schnappes Peppermint - Walker
+ Chevere Logs
+ Milk 2% 500 Ml
+ Beef - Roasted, Cooked
+ Wine - Clavet Saint Emilion
+ Lemons
+ Scallops - 10/20
+ Potatoes - Fingerling 4 Oz
+ Bread - Bistro White
+ Sprouts - Alfalfa
+ Veal - Slab Bacon
+ Plate Pie Foil
+ Glass - Juice Clear 5oz 55005
+ Muffin - Bran Ind Wrpd
+ Lychee
+ Strawberries
+ Cinnamon - Stick
+ Cookie Choc
+ Onions - Spanish
+ Spic And Span All Purpose
+ Coke - Classic, 355 Ml
+ Fruit Salad Deluxe
+ Coffee - Flavoured
+ Juice - Orangina
+ Cheese - Cheddar With Claret
+ Wine - Magnotta, Merlot Sr Vqa
+ Bread - Bagels, Plain
+ Veal - Round, Eye Of
+ Pear - Packum
+ Steamers White
+ Extract Vanilla Pure
+ Ham - Cooked Bayonne Tinned
+ Apple - Fuji
+ Apricots Fresh
+ Bagel - Whole White Sesame
+ Tea - Honey Green Tea
+ Pomegranates
+ Cream - 10%
+ Lemon Grass
+ Sauce - Rosee
+ Bagel - Whole White Sesame
+ Wine - White, Ej Gallo
+ Star Fruit
+ Cheese - Parmigiano Reggiano
+ Nantucket - Kiwi Berry Cktl.
+ Beer - True North Strong Ale
+ Veal - Heart
+ Fudge - Chocolate Fudge
+ Cookie Dough - Peanut Butter
+ Lettuce - Iceberg
+ Squid - U - 10 Thailand
+ Steampan - Lid For Half Size
+ Liqueur Banana, Ramazzotti
+ Soup - Verve - Chipotle Chicken
+ Cookie Dough - Oatmeal Rasin
+ Wine La Vielle Ferme Cote Du
+ Puree - Pear
+ Shrimp - 100 / 200 Cold Water
+ Rosemary - Primerba, Paste
+ Pasta - Canelloni, Single Serve
+ Glass - Juice Clear 5oz 55005
+ Curry Paste - Green Masala
+ Alize Sunset
+ Mushrooms - Black, Dried
+ Sauce - Soy Low Sodium - 3.87l
+ Foam Espresso Cup Plain White
+ Cheese - Boursin, Garlic / Herbs
+ Jam - Strawberry, 20 Ml Jar
+ Rabbit - Legs
+ Soup - Campbells Tomato Ravioli
+ Chick Peas - Canned
+ Pepper - Green
+ Rambutan
+ Placemat - Scallop, White
+ Celery
+ Wine - Casablanca Valley
+ Oil - Grapeseed Oil
+ Blueberries - Frozen
+ Arctic Char - Fillets
+ Flour - Bran, Red
+ Garlic
+ Yoplait Drink
+ Muffin - Mix - Strawberry Rhubarb
+ Tea - Herbal Sweet Dreams
+ Dawn Professionl Pot And Pan
+ Bread - Granary Small Pull
+ Containter - 3oz Microwave Rect.
+ Beef - Roasted, Cooked
+ Soup - Cream Of Broccoli
+ Soup V8 Roasted Red Pepper
+ Yoplait Drink
+ Coffee - Colombian, Portioned
+ Dried Cranberries
+ Vinegar - Sherry
+ Pimento - Canned
+ Wheat - Soft Kernal Of Wheat
+ Sesame Seed Black
+ Muffin - Blueberry Individual
+ Quail - Whole, Boneless
+ Chicken - Breast, 5 - 7 Oz
+ Rambutan
+ Pasta - Bauletti, Chicken White
+ Steampan - Foil
+ Napkin - Dinner, White
+ Remy Red Berry Infusion
+ Cookies Cereal Nut
+ Wine - Chardonnay South
+ Pizza Pizza Dough
+ Cake - Pancake
+ Mcgillicuddy Vanilla Schnap
+ Pepper - Cubanelle
+ Grenadine
+ Chips Potato Swt Chilli Sour
+ Creme De Menth - White
+ Rice Pilaf, Dry,package
+ Salt - Sea
+ Carrots - Mini Red Organic
+ Bread - Kimel Stick Poly
+ Foam Espresso Cup Plain White
+ Eggwhite Frozen
+ Bar Mix - Lemon
+ Bag - Clear 7 Lb
+ Beef - Baby, Liver
+ Dc Hikiage Hira Huba
+ Syrup - Pancake
+ Fondant - Icing
+ Pie Box - Cello Window 2.5
+ Vermouth - Sweet, Cinzano
+ Venison - Striploin
+ Chicken - Whole
+ Cattail Hearts
+ Pasta - Fusili, Dry
+ The Pop Shoppe Pinapple
+ Sandwich Wrap
+ Muffins - Assorted
+ Salmon - Atlantic, Fresh, Whole
+ Sprite - 355 Ml
+ Aspic - Light
+ Crab - Imitation Flakes
+ Muffin - Carrot Individual Wrap
+ Wine - Red, Cabernet Sauvignon
+ Cheese - St. Paulin
+ Bread - Calabrese Baguette
+ Muffin - Mix - Mango Sour Cherry
+ Wine - Masi Valpolocell
+ Tea - Honey Green Tea
+ Cheese - Feta
+ Maple Syrup
+ Juice - Orangina
+ Milk - 2% 250 Ml
+ Garbage Bags - Black
+ Cake - Mini Potato Pancake
+ Pork - Sausage Casing
+ Cinnamon Buns Sticky
+ Muffin Chocolate Individual Wrap
+ Flour - All Purpose
+ Fish - Base, Bouillion
+ Quail - Whole, Boneless
+ Carrots - Mini, Stem On
+ Lettuce - Treviso
+ Star Fruit
+ Lamb - Leg, Boneless
+ Ginger - Fresh
+ Bagel - Everything
+ Cheese - Brick With Pepper
+ Cheese - Augre Des Champs
+ Fish - Bones
+ The Pop Shoppe Pinapple
+ Bread - Dark Rye
+ Cake - French Pear Tart
+ Lamb - Bones
+ Muffin Mix - Banana Nut
+ Cheese Cloth No 60
+ Bandage - Fexible 1x3
+ Flour Dark Rye
+ Chutney Sauce
+ Tarragon - Primerba, Paste
+ Sobe - Lizard Fuel
+ Lobak
+ Capon - Breast, Double, Wing On
+ Shichimi Togarashi Peppeers
+ Cheese - Brick With Onion
+ Grapes - Red
+ Mousse - Passion Fruit
+ Pasta - Fusili Tri - Coloured
+ Cranberries - Frozen
+ Lotus Root
+ Goulash Seasoning
+ Rappini - Andy Boy
+ Beef - Bones, Cut - Up
+ Truffle Paste
+ Fuji Apples
+ Wine - Montecillo Rioja Crianza
+ Tea - Mint
+ Lamb - Whole, Frozen
+ Marsala - Sperone, Fine, D.o.c.
+ Straws - Cocktale
+ Juice - Ocean Spray Cranberry
+ Pur Source
+ Doilies - 10, Paper
+ Pasta - Fusili Tri - Coloured
+ 7up Diet, 355 Ml
+ Wine - Maipo Valle Cabernet
+ Flour - Strong
+ Pork - Smoked Back Bacon
+ Wine - Cave Springs Dry Riesling
+ Wine - Chateauneuf Du Pape
+ Edible Flower - Mixed
+ Yogurt - Plain
+ Olives - Stuffed
+ Creme De Banane - Marie
+ Salmon - Atlantic, Fresh, Whole
+ Wine - Carmenere Casillero Del
+ V8 Splash Strawberry Banana
+ Filo Dough
+ Oven Mitts - 15 Inch
+ Chef Hat 20cm
+ Apple - Royal Gala
+ Crab - Claws, 26 - 30
+ Potatoes - Pei 10 Oz
+ Chivas Regal - 12 Year Old
+ Southern Comfort
+ Tea - Black Currant
+ Melon - Honey Dew
+ Pork - Bacon,back Peameal
+ Amaretto
+ Corn Meal
+ Towel Dispenser
+ Vodka - Smirnoff
+ Tequila Rose Cream Liquor
+ Bread - Assorted Rolls
+ Aromat Spice / Seasoning
+ Turkey Leg With Drum And Thigh
+ Lettuce - Romaine, Heart
+ Tart Shells - Savory, 4
+ Cloves - Ground
+ Cheese - Woolwich Goat, Log
+ Danishes - Mini Raspberry
+ Sauce - Balsamic Viniagrette
+ Pasta - Fusili Tri - Coloured
+ Marzipan 50/50
+ Bread - Hot Dog Buns
+ Oranges - Navel, 72
+ Wine - Harrow Estates, Vidal
+ Flower - Dish Garden
+ Venison - Striploin
+ Flour - Semolina
+ Seabream Whole Farmed
+ Potatoes - Instant, Mashed
+ Wine - George Duboeuf Rose
+ Bag - Bread, White, Plain
+ Cleaner - Pine Sol
+ Tea - Earl Grey
+ Orange - Blood
+ Figs
+ Tortillas - Flour, 8
+ Canada Dry
+ Vinegar - Balsamic, White
+ Squash - Acorn
+ Raisin - Dark
+ Tomatoes - Vine Ripe, Red
+ Monkfish Fresh - Skin Off
+ Wine - White, Pinot Grigio
+ Flavouring - Orange
+ Peas Snow
+ Shrimp, Dried, Small / Lb
+ Nut - Pumpkin Seeds
+ Garlic - Primerba, Paste
+ Calypso - Pineapple Passion
+ Dip - Tapenade
+ Cup - 3.5oz, Foam
+ Icecream - Dstk Super Cone
+ Nut - Pecan, Pieces
+ Wine - Mondavi Coastal Private
+ Pepper - Red Chili
+ Fruit Mix - Light
+ Beef - Ox Tongue
+ Nut - Chestnuts, Whole
+ Bread Base - Italian
+ Bay Leaf
+ Beef Wellington
+ Soup Bowl Clear 8oz92008
+ Juice - Apple 284ml
+ Lobster - Live
+ Sauce - Apple, Unsweetened
+ Dried Apple
+ Lid - 10,12,16 Oz
+ Quiche Assorted
+ Longos - Cheese Tortellini
+ Wine - Clavet Saint Emilion
+ Beer - Blue Light
+ Port - 74 Brights
+ Bag - Bread, White, Plain
+ Wine - Pinot Grigio Collavini
+ Beef - Tenderloin - Aa
+ Salmon - Canned
+ Wine - Two Oceans Sauvignon
+ Cake Slab
+ Truffle Cups Green
+ Allspice - Jamaican
+ Chicken Thigh - Bone Out
+ Potatoes - Peeled
+ Wine - Mas Chicet Rose, Vintage
+ Chef Hat 25cm
+ Steampan Lid
+ Oil - Sunflower
+ Potatoes - Mini Red
+ Devonshire Cream
+ Iced Tea - Lemon, 460 Ml
+ Water - Spring Water 500ml
+ Apricots - Dried
+ Cilantro / Coriander - Fresh
+ Pumpkin
+ Turnip - White
+ Lid Tray - 12in Dome
+ Coffee Decaf Colombian
+ Soup - Campbells, Chix Gumbo
+ Wine - White, Ej
+ Halibut - Fletches
+ Nut - Almond, Blanched, Sliced
+ Chicken - White Meat With Tender
+ Wine - White, Cooking
+ Magnotta Bel Paese Red
+ Grapefruit - Pink
+ Huck White Towels
+ Fish - Atlantic Salmon, Cold
+ Gatorade - Xfactor Berry
+ Bread - Raisin Walnut Oval
+ Mushroom - Trumpet, Dry
+ Quail - Whole, Boneless
+ Cheese - Brick With Onion
+ Liqueur - Melon
+ Wine - Sherry Dry Sack, William
+ Bread - Pita
+ Lamb Rack Frenched Australian
+ Gherkin - Sour
+ Coriander - Ground
+ Wine - Alsace Gewurztraminer
+ Wine - Cave Springs Dry Riesling
+ Pepper - Black, Whole
+ Quiche Assorted
+ Snapple Lemon Tea
+ Coconut - Whole
+ Soup - Campbells Bean Medley
+ Wine - Fontanafredda Barolo
+ Island Oasis - Raspberry
+ Pastry - Carrot Muffin - Mini
+ Beef - Rib Roast, Cap On
+ Neckerchief Blck
+ Chicken - Bones
+ Mushroom - Oyster, Fresh
+ Tomatoes - Heirloom
+ Wine - Sake
+ Beer - Camerons Cream Ale
+ Bread Bowl Plain
+ Sobe - Lizard Fuel
+ Beef - Shank
+ Chocolate - Milk
+ Pasta - Penne, Lisce, Dry
+ Chilli Paste, Ginger Garlic
+ Pepper - Green
+ Sea Bass - Fillets
+ Wine - Soave Folonari
+ Eggplant - Asian
+ Chocolate - Milk
+ Pasta - Cappellini, Dry
+ Tomatoes - Grape
+ Yams
+ Coffee Cup 8oz 5338cd
+ Transfer Sheets
+ Sunflower Seed Raw
+ Flour - Semolina
+ Cheese - Bocconcini
+ Nut - Pecan, Pieces
+ Soup - Cream Of Broccoli
+ Pizza Pizza Dough
+ Zucchini - Mini, Green
+ Pie Shell - 5
+ Shrimp - 21/25, Peel And Deviened
+ Dried Peach
+ Food Colouring - Pink
+ Table Cloth 120 Round White
+ Maintenance Removal Charge
+ Soup - French Onion, Dry
+ Cheese - Le Cru Du Clocher
+ Spice - Pepper Portions
+ Ice Cream Bar - Oreo Sandwich
+ Cakes Assorted
+ Wine - Sauvignon Blanc
+ Chocolate - Milk Coating
+ Devonshire Cream
+ Sterno - Chafing Dish Fuel
+ Coffee Swiss Choc Almond
+ Lamb - Pieces, Diced
+ Milk - Condensed
+ Beer - Tetleys
+ Blueberries
+ Ecolab Crystal Fusion
+ Beer - Sleemans Cream Ale
+ Shrimp, Dried, Small / Lb
+ Ham - Proscuitto
+ Wine - Red, Colio Cabernet
+ Bread Sour Rolls
+ Glass Clear 7 Oz Xl
+ Lighter - Bbq
+ Wine - Chateauneuf Du Pape
+ Fish - Bones
+ Pie Box - Cello Window 2.5
+ Mushrooms - Honey
+ Dried Cherries
+ Mcgillicuddy Vanilla Schnap
+ Swiss Chard
+ Wine - Fume Blanc Fetzer
+ Spoon - Soup, Plastic
+ Beef - Chuck, Boneless
+ Ice Cream Bar - Rolo Cone
+ Bread - Focaccia Quarter
+ Chicken - Bones
+ Salt - Rock, Course
+ Cabbage Roll
+ Onions - Red
+ Apples - Sliced / Wedge
+ Wine - Rioja Campo Viejo
+ Beef - Ground Lean Fresh
+ Tortillas - Flour, 12
+ Venison - Denver Leg Boneless
+ Dill - Primerba, Paste
+ Mackerel Whole Fresh
+ Vaccum Bag - 14x20
+ Pike - Frozen Fillet
+ Lamb - Bones
+ Lobster - Baby, Boiled
+ Doilies - 10, Paper
+ Pastry - Trippleberry Muffin - Mini
+ Lettuce - Romaine
+ Wine - White, Ej
+(969 rows)
+
+
+ This query results shows the different products from the ecommerce sales table then ordered by using revenue in an ascending order
+        
+SELECT product, revenue FROM ecommerce_sales ORDER BY revenue DESC;
+               product               | revenue
+-------------------------------------+---------
+ Ecolab - Orange Frc, Cleaner        | $99.95
+ Trout - Hot Smkd, Dbl Fillet        | $99.16
+ Pork - Inside                       | $99.08
+ Lamb - Shoulder                     | $98.57
+ Bread - Onion Focaccia              | $98.51
+ Soup - French Onion                 | $98.46
+ Alize Gold Passion                  | $98.38
+ Crab Meat Claw Pasteurise           | $98.05
+ Beer - Upper Canada Lager           | $98.04
+ Pepper - Red Chili                  | $97.54
+ Mop Head - Cotton, 24 Oz            | $97.41
+ Cocoa Feuilletine                   | $97.14
+ Pepper - Red Thai                   | $96.97
+ Pomello                             | $96.04
+ Pastry - Apple Muffins - Mini       | $95.98
+ Snapple - Iced Tea Peach            | $95.48
+ Irish Cream - Baileys               | $95.37
+ Sauce - Demi Glace                  | $95.33
+ Bread - Dark Rye, Loaf              | $95.17
+ Long Island Ice Tea                 | $94.91
+ Chicken - Soup Base                 | $94.64
+ Ecolab - Solid Fusion               | $94.31
+ Greens Mustard                      | $93.95
+ Wine - Vovray Sec Domaine Huet      | $93.25
+ Bread - 10 Grain                    | $92.76
+ Alize Sunset                        | $92.08
+ Corn - On The Cob                   | $92.03
+ Tuna - Yellowfin                    | $91.80
+ Wine - Red, Gamay Noir              | $91.56
+ Tomatoes Tear Drop Yellow           | $91.25
+ Cheese - Camembert                  | $91.09
+ Garlic - Primerba, Paste            | $91.02
+ V8 Pet                              | $90.84
+ Wine - Red, Cabernet Sauvignon      | $90.83
+ Water Chestnut - Canned             | $90.09
+ Flour - Whole Wheat                 | $89.91
+ Wasabi Paste                        | $89.25
+ Wine - Casablanca Valley            | $89.12
+ Turnip - Wax                        | $88.99
+ Juice - Apple Cider                 | $88.97
+ Glass Clear 8 Oz                    | $88.34
+ Beer - Creemore                     | $88.08
+ Coke - Classic, 355 Ml              | $87.92
+ Daves Island Stinger                | $87.59
+ Clams - Canned                      | $87.58
+ Muskox - French Rack                | $87.52
+ Lentils - Green, Dry                | $87.50
+ Bread - Hamburger Buns              | $86.74
+ Pasta - Fettuccine, Egg, Fresh      | $86.51
+ Chicken - Base, Ultimate            | $86.10
+ Lamb - Shoulder                     | $85.58
+ Beer - Mill St Organic              | $85.52
+ Pepper - Green                      | $85.45
+ Juice Peach Nectar                  | $85.15
+ Daves Island Stinger                | $84.94
+ Dragon Fruit                        | $84.29
+ Ice Cream Bar - Oreo Cone           | $84.25
+ Bar Mix - Pina Colada, 355 Ml       | $84.16
+ Stock - Fish                        | $84.08
+ Mushroom - Lg - Cello               | $83.65
+ Flour - Fast / Rapid                | $82.99
+ Chocolate - Milk, Callets           | $82.77
+ Beer - Paulaner Hefeweisse          | $82.69
+ Towel Dispenser                     | $82.67
+ Flavouring Vanilla Artificial       | $82.59
+ Napkin - Beverage 1 Ply             | $82.17
+ Soap - Mr.clean Floor Soap          | $81.95
+ Salt - Celery                       | $81.85
+ Appetizer - Shrimp Puff             | $80.35
+ Wine - Red, Black Opal Shiraz       | $80.05
+ Appetizer - Cheese Bites            | $78.92
+ Juice - Happy Planet                | $78.61
+ Cheese - Bocconcini                 | $78.34
+ Towels - Paper / Kraft              | $78.31
+ Hipnotiq Liquor                     | $78.22
+ Lamb - Sausage Casings              | $77.36
+ Cake - Box Window 10x10x2.5         | $77.22
+ Melon - Watermelon Yellow           | $77.17
+ Cookies Oatmeal Raisin              | $76.76
+ Flour - Masa De Harina Mexican      | $76.65
+ Mangoes                             | $75.87
+ Dill Weed - Fresh                   | $75.56
+ Flavouring Vanilla Artificial       | $74.90
+ Oven Mitt - 13 Inch                 | $74.68
+ Hummus - Spread                     | $74.51
+ Bread - White, Sliced               | $74.36
+ Goat - Leg                          | $74.32
+ Cheese - Bakers Cream Cheese        | $74.31
+ Puree - Pear                        | $74.21
+ Ecolab - Mikroklene 4/4 L           | $74.17
+ Cumin - Ground                      | $73.17
+ Spring Roll Wrappers                | $73.00
+ Lambcasing                          | $72.53
+ Bread - Raisin Walnut Pull          | $72.12
+ Sprouts Dikon                       | $71.13
+ Beef - Texas Style Burger           | $70.13
+ Cheese - Cheddarsliced              | $69.99
+ Sprouts - Alfalfa                   | $69.89
+ Sea Bass - Whole                    | $69.73
+ Wine - Red, Harrow Estates, Cab     | $69.68
+ Vermouth - White, Cinzano           | $69.64
+ Cheese - Pied De Vents              | $69.51
+ Wine - Touraine Azay - Le - Rideau  | $69.37
+ Pasta - Fett Alfredo, Single Serve  | $69.05
+ Calypso - Lemonade                  | $68.65
+ Bar Mix - Pina Colada, 355 Ml       | $68.33
+ Kellogs Raisan Bran Bars            | $67.92
+ Steampan - Foil                     | $66.99
+ Soup - Cream Of Potato / Leek       | $66.59
+ Longos - Chicken Cordon Bleu        | $66.46
+ Soup - French Onion, Dry            | $66.36
+ Dish Towel                          | $66.29
+ Wine - Blue Nun Qualitatswein       | $65.98
+ Bagel - Whole White Sesame          | $65.96
+ Pears - Bosc                        | $65.70
+ Cake Slab                           | $64.86
+ Bread - White, Sliced               | $64.85
+ Sugar - Crumb                       | $64.83
+ Wine - Chardonnay South             | $64.72
+ Plate Foam Laminated 9in Blk        | $64.07
+ Beer - Corona                       | $63.70
+ Shrimp - 21/25, Peel And Deviened   | $63.33
+ Rhubarb                             | $61.97
+ Muskox - French Rack                | $61.01
+ Pastry - Butterscotch Baked         | $60.80
+ Pasta - Fusili, Dry                 | $60.79
+ Goulash Seasoning                   | $60.77
+ Seedlings - Mix, Organic            | $60.26
+ Dr. Pepper - 355ml                  | $60.21
+ Bread - Bagels, Plain               | $59.89
+ Tart Shells - Savory, 3             | $59.79
+ Lemonade - Black Cherry, 591 Ml     | $59.51
+ Halibut - Fletches                  | $59.24
+ Chips - Doritos                     | $58.55
+ Daikon Radish                       | $58.54
+ Nori Sea Weed - Gold Label          | $58.21
+ Cake Slab                           | $57.29
+ Foil Cont Round                     | $57.16
+ Wine - Ruffino Chianti Classico     | $56.23
+ Soup - Campbells, Classic Chix      | $56.13
+ Coffee - French Vanilla Frothy      | $56.03
+ Mcgillicuddy Vanilla Schnap         | $55.97
+ Yogurt - Cherry, 175 Gr             | $55.81
+ Rice - Wild                         | $55.61
+ Island Oasis - Strawberry           | $55.14
+ Blouse / Shirt / Sweater            | $54.46
+ Longos - Grilled Chicken With       | $54.29
+ Coffee Swiss Choc Almond            | $54.17
+ Vinegar - Sherry                    | $53.57
+ Mortadella                          | $53.55
+ Rum - Mount Gay Eclipes             | $52.73
+ Skirt - 24 Foot                     | $52.29
+ Tea - Herbal - 6 Asst               | $51.99
+ Mushroom - Shitake, Dry             | $51.71
+ Cherries - Fresh                    | $51.62
+ Beef - Kindney, Whole               | $51.26
+ Rice - Sushi                        | $51.15
+ Appetizer - Escargot Puff           | $51.05
+ Urban Zen Drinks                    | $51.03
+ Quail - Eggs, Fresh                 | $50.63
+ Pail For Lid 1537                   | $49.76
+ Longan                              | $49.72
+ Cake - Cake Sheet Macaroon          | $49.66
+ Ice Cream Bar - Oreo Sandwich       | $49.46
+ Wine - Sogrape Mateus Rose          | $49.27
+ Wine - Spumante Bambino White       | $49.05
+ Pastry - Chocolate Chip Muffin      | $47.86
+ Cheese - Cheddar, Mild              | $47.63
+ Cinnamon Buns Sticky                | $46.98
+ Juice - Orange                      | $46.14
+ Chicken - Wings, Tip Off            | $46.10
+ Onions - Pearl                      | $45.80
+ Quiche Assorted                     | $45.74
+ Apple - Custard                     | $45.38
+ Curry Powder Madras                 | $45.12
+ Tamarillo                           | $44.91
+ Shrimp - 31/40                      | $44.79
+ Pate Pans Yellow                    | $44.77
+ Soho Lychee Liqueur                 | $44.24
+ Celery Root                         | $43.68
+ Nut - Walnut, Pieces                | $43.62
+ Soup - Knorr, Classic Can. Chili    | $43.32
+ Syrup - Monin, Irish Cream          | $42.18
+ Wine - Rioja Campo Viejo            | $42.01
+ Nantucket - Pomegranate Pear        | $41.74
+ Cinnamon - Stick                    | $41.56
+ Straw - Regular                     | $41.45
+ Yogurt - Blueberry, 175 Gr          | $41.38
+ Pastry - Key Limepoppy Seed Tea     | $40.84
+ Soup - French Onion                 | $40.69
+ Beef Tenderloin Aaa                 | $40.57
+ Dried Peach                         | $40.34
+ Soup - Campbells Asian Noodle       | $39.85
+ Wine - Baron De Rothschild          | $38.95
+ Haggis                              | $38.85
+ Apple - Granny Smith                | $38.74
+ Garlic - Elephant                   | $38.37
+ Wine - Cava Aria Estate Brut        | $38.29
+ Beef - Cow Feet Split               | $38.15
+ Juice - Apple Cider                 | $37.96
+ Coconut Milk - Unsweetened          | $37.69
+ Salad Dressing                      | $37.24
+ Ice Cream Bar - Oreo Cone           | $36.77
+ Goldschalger                        | $36.73
+ Syrup - Monin, Irish Cream          | $36.51
+ Calvados - Boulard                  | $36.49
+ Cookies - Englishbay Chochip        | $36.32
+ Sauce - Chili                       | $36.10
+ Wine - White, Lindemans Bin 95      | $36.09
+ Bandage - Finger Cots               | $35.84
+ Cookies - Englishbay Wht            | $35.82
+ Wine - Pinot Noir Mondavi Coastal   | $35.80
+ Amaretto                            | $35.79
+ Ecolab - Mikroklene 4/4 L           | $35.59
+ Lettuce - Boston Bib                | $34.94
+ Lamb - Ground                       | $34.93
+ Apricots - Halves                   | $34.80
+ Nut - Pecan, Halves                 | $34.71
+ Curry Powder                        | $34.19
+ Bagelers - Cinn / Brown             | $32.87
+ Bread - Roll, Soft White Round      | $32.52
+ Breakfast Quesadillas               | $32.49
+ Ice Cream Bar - Drumstick           | $32.40
+ Pasta - Canelloni                   | $31.94
+ Pork - Kidney                       | $31.85
+ Wine - White, Mosel Gold            | $31.66
+ Parasol Pick Stir Stick             | $31.60
+ Shrimp - Black Tiger 6 - 8          | $31.49
+ Quail - Whole, Boneless             | $30.98
+ Seabream Whole Farmed               | $30.34
+ Wine - Montecillo Rioja Crianza     | $30.30
+ Bananas                             | $299.87
+ Glass - Juice Clear 5oz 55005       | $299.41
+ Cookies - Fortune                   | $299.21
+ Lemon Pepper                        | $299.16
+ Apricots - Dried                    | $299.05
+ Juice - Orange, 341 Ml              | $298.92
+ Beef - Bresaola                     | $298.81
+ Pepper - Black, Crushed             | $298.80
+ Nescafe - Frothy French Vanilla     | $297.68
+ Juice - Pineapple, 341 Ml           | $297.09
+ Cheese - Mozzarella, Shredded       | $297.05
+ Octopus                             | $296.93
+ Pur Source                          | $296.64
+ Crab - Back Fin Meat, Canned        | $296.64
+ Ham - Proscuitto                    | $296.46
+ Tomatoes Tear Drop                  | $296.31
+ The Pop Shoppe - Black Cherry       | $296.21
+ Ecolab - Balanced Fusion            | $295.97
+ Bacardi Raspberry                   | $295.22
+ Bread - Granary Small Pull          | $295.12
+ Yeast Dry - Fleischman              | $294.88
+ Squid Ink                           | $294.78
+ Lid Coffee Cup 8oz Blk              | $294.74
+ Dikon                               | $294.40
+ Soup - Campbells, Beef Barley       | $294.27
+ Onion Powder                        | $293.95
+ Compound - Pear                     | $293.08
+ Pie Filling - Cherry                | $293.08
+ Beans - Black Bean, Canned          | $293.00
+ Sauce - Plum                        | $292.86
+ Crab Brie In Phyllo                 | $292.57
+ Bread - Bistro Sour                 | $292.30
+ Grapefruit - Pink                   | $292.25
+ Compound - Orange                   | $291.61
+ Soup - Canadian Pea, Dry Mix        | $291.45
+ Leeks - Large                       | $291.39
+ Vinegar - Champagne                 | $291.02
+ Pear - Packum                       | $290.69
+ Curry Paste - Green Masala          | $290.52
+ Pancetta                            | $290.10
+ Oil - Margarine                     | $29.96
+ Bread - French Baquette             | $29.83
+ Bacardi Breezer - Tropical          | $29.18
+ Wine - Harrow Estates, Vidal        | $289.99
+ Oil - Truffle, Black                | $289.23
+ Soup Campbells Mexicali Tortilla    | $288.97
+ Wine - Vidal Icewine Magnotta       | $288.66
+ Beef - Ground Lean Fresh            | $288.66
+ Ham - Smoked, Bone - In             | $288.65
+ Beef - Short Loin                   | $288.47
+ Mushroom - Lg - Cello               | $288.33
+ Bacardi Breezer - Strawberry        | $287.91
+ Beer - Original Organic Lager       | $287.46
+ Wine - Chardonnay South             | $287.38
+ Truffle Cups Green                  | $286.51
+ Bar Energy Chocchip                 | $285.99
+ Cookie - Oreo 100x2                 | $285.86
+ Pasta - Orecchiette                 | $285.86
+ Sprouts Dikon                       | $284.65
+ Arrowroot                           | $284.44
+ Mcgillicuddy Vanilla Schnap         | $284.17
+ Spaghetti Squash                    | $284.06
+ Spring Roll Wrappers                | $283.48
+ Spinach - Baby                      | $282.79
+ Wine - Baron De Rothschild          | $282.23
+ Beans - Fine                        | $281.94
+ Anisette - Mcguiness                | $281.82
+ Oil - Pumpkinseed                   | $281.66
+ Russian Prince                      | $281.65
+ Yogurt - Banana, 175 Gr             | $281.58
+ Soup - French Can Pea               | $281.43
+ Soup - Boston Clam Chowder          | $281.25
+ Pail - 15l White, With Handle       | $280.92
+ Pork - Liver                        | $280.68
+ V8 - Berry Blend                    | $280.68
+ Soup - Campbells Beef Stew          | $280.65
+ Lemon Balm - Fresh                  | $280.25
+ Edible Flower - Mixed               | $280.21
+ Tea Leaves - Oolong                 | $28.98
+ Wine - Casillero Deldiablo          | $28.93
+ Bread - Roll, Whole Wheat           | $28.77
+ Ostrich - Prime Cut                 | $28.42
+ Soup - French Onion, Dry            | $278.57
+ Neckerchief Blck                    | $278.54
+ Pepper - Jalapeno                   | $278.50
+ Chilli Paste, Ginger Garlic         | $278.17
+ Potatoes - Idaho 80 Count           | $277.27
+ Yeast - Fresh, Fleischman           | $277.20
+ Liqueur Banana, Ramazzotti          | $277.14
+ Thyme - Lemon, Fresh                | $276.80
+ Pepper - Jalapeno                   | $276.04
+ Bacon Strip Precooked               | $275.99
+ Lamb - Shoulder                     | $275.48
+ Chicken - Leg, Boneless             | $274.42
+ Scotch - Queen Anne                 | $274.14
+ Fudge - Cream Fudge                 | $273.58
+ Arizona - Green Tea                 | $273.57
+ Rice Pilaf, Dry,package             | $273.45
+ Flower - Dish Garden                | $273.10
+ Flower - Daisies                    | $272.97
+ Turnip - Mini                       | $272.78
+ Sobe - Liz Blizz                    | $272.42
+ Wine - Vidal Icewine Magnotta       | $272.04
+ Sword Pick Asst                     | $271.68
+ Apple - Macintosh                   | $271.65
+ Turkey - Oven Roast Breast          | $271.57
+ Horseradish - Prepared              | $271.29
+ Jam - Marmalade, Orange             | $271.14
+ Thermometer Digital                 | $270.89
+ Melon - Honey Dew                   | $270.57
+ Blueberries - Frozen                | $270.39
+ Squash - Acorn                      | $27.90
+ Cauliflower                         | $27.89
+ Beer - Pilsner Urquell              | $27.51
+ Foam Tray S2                        | $269.75
+ Wine - Barolo Fontanafredda         | $269.56
+ Shark - Loin                        | $269.53
+ Wine - Muscadet Sur Lie             | $269.32
+ Muffin Chocolate Individual Wrap    | $268.66
+ Bananas                             | $268.31
+ Pomegranates                        | $267.97
+ Cleaner - Bleach                    | $267.94
+ Cheese - Comte                      | $267.39
+ Cookies - Oreo, 4 Pack              | $266.83
+ Cookies - Fortune                   | $265.95
+ Energy Drink                        | $265.76
+ Puree - Guava                       | $264.54
+ Sproutsmustard Cress                | $264.22
+ Tomato - Green                      | $263.55
+ Pail - 4l White, With Handle        | $263.01
+ Mangoes                             | $263.00
+ Sunflower Seed Raw                  | $262.98
+ Bread - Crumbs, Bulk                | $262.91
+ Pastry - Banana Tea Loaf            | $262.85
+ Soup - Cream Of Potato / Leek       | $262.28
+ Cheese - Pont Couvert               | $262.11
+ Soup - Knorr, French Onion          | $261.69
+ Rice - Wild                         | $261.49
+ Glass - Wine, Plastic, Clear 5 Oz   | $261.32
+ Salmon - Sockeye Raw                | $260.58
+ Cheese - Provolone                  | $260.56
+ Rosemary - Dry                      | $259.74
+ Lemonade - Strawberry, 591 Ml       | $259.43
+ Lid - 3oz Med Rec                   | $259.04
+ Longos - Cheese Tortellini          | $258.80
+ Crab - Dungeness, Whole             | $258.28
+ Sauce - Sesame Thai Dressing        | $258.20
+ Cake - Dulce De Leche               | $257.56
+ Pork Ham Prager                     | $257.12
+ Vermouth - Sweet, Cinzano           | $256.68
+ Wine - Chenin Blanc K.w.v.          | $256.22
+ Lettuce - Lolla Rosa                | $256.17
+ Bread - Malt                        | $255.80
+ Trout - Hot Smkd, Dbl Fillet        | $255.71
+ External Supplier                   | $255.65
+ Wine - Lamancha Do Crianza          | $255.64
+ Ham - Smoked, Bone - In             | $255.59
+ Pie Box - Cello Window 2.5          | $255.44
+ Bread - Ciabatta Buns               | $255.08
+ Saskatoon Berries - Frozen          | $253.94
+ Sobe - Lizard Fuel                  | $253.91
+ Appetizer - Lobster Phyllo Roll     | $253.78
+ Lamb - Shanks                       | $253.19
+ Yogurt - French Vanilla             | $252.93
+ Foam Espresso Cup Plain White       | $252.36
+ Spaghetti Squash                    | $252.26
+ Pasta - Canelloni                   | $252.06
+ Sloe Gin - Mcguinness               | $252.04
+ Cheese - Parmigiano Reggiano        | $251.22
+ Sachet                              | $251.18
+ Dasheen                             | $250.27
+ Salmon Steak - Cohoe 6 Oz           | $250.18
+ Pork - Loin, Bone - In              | $250.11
+ Extract - Almond                    | $249.99
+ Cream - 35%                         | $249.51
+ Chocolate - Feathers                | $249.49
+ Crab - Dungeness, Whole, live       | $249.27
+ Pastry - Chocolate Chip Muffin      | $249.05
+ Steel Wool S.o.s                    | $248.98
+ Nut - Almond, Blanched, Sliced      | $248.95
+ Steampan Lid                        | $248.90
+ Table Cloth 53x69 White             | $246.48
+ Blouse / Shirt / Sweater            | $246.41
+ Beets                               | $245.94
+ Pork - Hock And Feet Attached       | $245.82
+ Crab - Back Fin Meat, Canned        | $245.67
+ Paper Cocktail Umberlla 80 - 180    | $245.65
+ Island Oasis - Pina Colada          | $245.61
+ Bread - Frozen Basket Variety       | $245.30
+ Nut - Almond, Blanched, Whole       | $245.16
+ Cookies Almond Hazelnut             | $245.09
+ Steam Pan - Half Size Deep          | $244.86
+ Asparagus - Green, Fresh            | $244.53
+ Mousse - Passion Fruit              | $244.36
+ Sauce - Plum                        | $244.21
+ Table Cloth - 53x69 Colour          | $243.80
+ Slt - Individual Portions           | $243.74
+ Bag Clear 10 Lb                     | $243.35
+ Lid - 0090 Clear                    | $243.28
+ Wine - Chianti Classico Riserva     | $243.04
+ Pasta - Elbows, Macaroni, Dry       | $242.31
+ Soup - Chicken And Wild Rice        | $242.09
+ Radish                              | $241.71
+ Rice - Long Grain                   | $241.58
+ Lentils - Red, Dry                  | $241.26
+ Breadfruit                          | $241.25
+ Crush - Orange, 355ml               | $240.89
+ Cheese - Pont Couvert               | $240.77
+ Irish Cream - Butterscotch          | $240.30
+ Syrup - Monin - Blue Curacao        | $240.08
+ Longan                              | $239.23
+ Wakami Seaweed                      | $239.00
+ Ecolab - Power Fusion               | $238.88
+ Veal - Leg, Provimi - 50 Lb Max     | $238.38
+ Veal - Inside, Choice               | $237.99
+ Bread - Raisin Walnut Oval          | $237.34
+ Bar Mix - Lemon                     | $237.21
+ Wanton Wrap                         | $237.10
+ Rum - Light, Captain Morgan         | $237.04
+ Butter Ripple - Phillips            | $236.91
+ Cakes Assorted                      | $236.59
+ Apples - Spartan                    | $236.54
+ Radish - Black, Winter, Organic     | $236.00
+ Shiro Miso                          | $235.76
+ Cranberry Foccacia                  | $235.47
+ Chickhen - Chicken Phyllo           | $235.35
+ Latex Rubber Gloves Size 9          | $235.30
+ Sauerkraut                          | $235.00
+ Cheese - Montery Jack               | $234.69
+ Ice Cream Bar - Oreo Cone           | $234.03
+ Hot Choc Vending                    | $233.95
+ Galliano                            | $233.37
+ Yogurt - Cherry, 175 Gr             | $233.28
+ Beer - Alexander Kieths, Pale Ale   | $233.25
+ Cookies Cereal Nut                  | $233.19
+ Ostrich - Prime Cut                 | $232.95
+ Sobe - Green Tea                    | $232.59
+ Veal - Provimi Inside               | $232.37
+ Mini - Vol Au Vents                 | $231.70
+ Rambutan                            | $231.55
+ Chef Hat 20cm                       | $231.45
+ Soup - Knorr, Chicken Noodle        | $231.01
+ Lobster - Live                      | $230.33
+ Beans - Green                       | $230.33
+ Lid - 3oz Med Rec                   | $23.69
+ Steel Wool S.o.s                    | $23.41
+ Container - Foam Dixie 12 Oz        | $23.17
+ Syrup - Monin - Granny Smith        | $229.83
+ Lettuce - Frisee                    | $229.20
+ Vegetable - Base                    | $229.06
+ Soup - Campbells, Creamy            | $227.82
+ Bread Fig And Almond                | $227.67
+ Beef Dry Aged Tenderloin Aaa        | $227.47
+ Beer - Labatt Blue                  | $227.37
+ Fennel                              | $227.31
+ Wine - Chateauneuf Du Pape          | $227.17
+ Onions - Cooking                    | $227.05
+ Juice - Tomato, 10 Oz               | $226.92
+ Danishes - Mini Cheese              | $226.56
+ Glove - Cutting                     | $226.49
+ Gooseberry                          | $226.08
+ Juice - Cranberry, 341 Ml           | $225.86
+ Oil - Coconut                       | $225.57
+ Bread - Calabrese Baguette          | $225.52
+ Chocolate Liqueur - Godet White     | $225.17
+ Cheese - Provolone                  | $225.13
+ Strawberries - California           | $225.12
+ Pepper - Cubanelle                  | $225.03
+ Calaloo                             | $224.59
+ Milk - Chocolate 250 Ml             | $224.39
+ Grapes - Red                        | $224.17
+ Plastic Wrap                        | $223.88
+ Doilies - 8, Paper                  | $223.72
+ Cheese - Pont Couvert               | $223.22
+ Pasta - Detalini, White, Fresh      | $222.61
+ Carrots - Jumbo                     | $222.32
+ Juice - Orangina                    | $221.97
+ Wine - Barbera Alba Doc 2001        | $221.77
+ Pasta - Fusili Tri - Coloured       | $221.55
+ Rum - Coconut, Malibu               | $221.38
+ Wine - Chablis 2003 Champs          | $221.20
+ Soupfoamcont12oz 112con             | $221.18
+ Ecolab - Power Fusion               | $221.11
+ Beer - Guiness                      | $220.62
+ Avocado                             | $220.54
+ Bread - Rye                         | $220.47
+ Wine - Casillero Del Diablo         | $220.42
+ Pasta - Cannelloni, Sheets, Fresh   | $220.35
+ Roe - Lump Fish, Black              | $220.16
+ Wine - Rosso Toscano Igt            | $220.04
+ Veal - Chops, Split, Frenched       | $22.90
+ Skirt - 29 Foot                     | $22.76
+ Nut - Pumpkin Seeds                 | $22.37
+ Rum - Dark, Bacardi, Black          | $22.09
+ Sauce - Apple, Unsweetened          | $22.08
+ Nougat - Paste / Cream              | $219.98
+ Chicken - White Meat, No Tender     | $219.88
+ Sponge Cake Mix - Vanilla           | $219.85
+ Chicken - Diced, Cooked             | $219.83
+ Artichokes - Knobless, White        | $219.09
+ Fireball Whisky                     | $218.86
+ Rum - Cream, Amarula                | $218.67
+ Schnappes Peppermint - Walker       | $218.63
+ Chevere Logs                        | $218.24
+ Milk 2% 500 Ml                      | $218.12
+ Beef - Roasted, Cooked              | $218.04
+ Wine - Clavet Saint Emilion         | $218.02
+ Lemons                              | $217.98
+ Scallops - 10/20                    | $217.19
+ Potatoes - Fingerling 4 Oz          | $216.96
+ Bread - Bistro White                | $216.77
+ Sprouts - Alfalfa                   | $216.64
+ Veal - Slab Bacon                   | $216.24
+ Plate Pie Foil                      | $215.76
+ Glass - Juice Clear 5oz 55005       | $215.20
+ Muffin - Bran Ind Wrpd              | $214.93
+ Lychee                              | $214.89
+ Strawberries                        | $214.84
+ Cinnamon - Stick                    | $214.69
+ Cookie Choc                         | $214.22
+ Onions - Spanish                    | $213.88
+ Spic And Span All Purpose           | $213.84
+ Coke - Classic, 355 Ml              | $213.76
+ Fruit Salad Deluxe                  | $213.47
+ Coffee - Flavoured                  | $213.18
+ Juice - Orangina                    | $213.08
+ Cheese - Cheddar With Claret        | $213.06
+ Wine - Magnotta, Merlot Sr Vqa      | $212.97
+ Bread - Bagels, Plain               | $212.64
+ Veal - Round, Eye Of                | $212.41
+ Pear - Packum                       | $212.22
+ Steamers White                      | $212.06
+ Extract Vanilla Pure                | $211.82
+ Ham - Cooked Bayonne Tinned         | $211.67
+ Apple - Fuji                        | $211.49
+ Apricots Fresh                      | $210.99
+ Bagel - Whole White Sesame          | $210.38
+ Tea - Honey Green Tea               | $210.26
+ Pomegranates                        | $210.09
+ Cream - 10%                         | $21.61
+ Lemon Grass                         | $21.31
+ Sauce - Rosee                       | $21.18
+ Bagel - Whole White Sesame          | $209.79
+ Wine - White, Ej Gallo              | $209.73
+ Star Fruit                          | $209.39
+ Cheese - Parmigiano Reggiano        | $209.32
+ Nantucket - Kiwi Berry Cktl.        | $209.04
+ Beer - True North Strong Ale        | $208.97
+ Veal - Heart                        | $208.94
+ Fudge - Chocolate Fudge             | $208.35
+ Cookie Dough - Peanut Butter        | $207.95
+ Lettuce - Iceberg                   | $207.85
+ Squid - U - 10 Thailand             | $207.71
+ Steampan - Lid For Half Size        | $207.46
+ Liqueur Banana, Ramazzotti          | $207.00
+ Soup - Verve - Chipotle Chicken     | $206.18
+ Cookie Dough - Oatmeal Rasin        | $205.89
+ Wine La Vielle Ferme Cote Du        | $205.80
+ Puree - Pear                        | $205.65
+ Shrimp - 100 / 200 Cold Water       | $205.36
+ Rosemary - Primerba, Paste          | $205.35
+ Pasta - Canelloni, Single Serve     | $204.99
+ Glass - Juice Clear 5oz 55005       | $204.40
+ Curry Paste - Green Masala          | $204.32
+ Alize Sunset                        | $204.15
+ Mushrooms - Black, Dried            | $203.95
+ Sauce - Soy Low Sodium - 3.87l      | $203.68
+ Foam Espresso Cup Plain White       | $203.21
+ Cheese - Boursin, Garlic / Herbs    | $202.73
+ Jam - Strawberry, 20 Ml Jar         | $202.38
+ Rabbit - Legs                       | $200.72
+ Soup - Campbells Tomato Ravioli     | $200.37
+ Chick Peas - Canned                 | $20.69
+ Pepper - Green                      | $20.51
+ Rambutan                            | $20.42
+ Placemat - Scallop, White           | $20.34
+ Celery                              | $20.14
+ Wine - Casablanca Valley            | $199.97
+ Oil - Grapeseed Oil                 | $199.97
+ Blueberries - Frozen                | $199.73
+ Arctic Char - Fillets               | $199.39
+ Flour - Bran, Red                   | $199.31
+ Garlic                              | $198.98
+ Yoplait Drink                       | $198.52
+ Muffin - Mix - Strawberry Rhubarb   | $198.19
+ Tea - Herbal Sweet Dreams           | $198.12
+ Dawn Professionl Pot And Pan        | $197.96
+ Bread - Granary Small Pull          | $197.96
+ Containter - 3oz Microwave Rect.    | $197.74
+ Beef - Roasted, Cooked              | $197.64
+ Soup - Cream Of Broccoli            | $197.61
+ Soup V8 Roasted Red Pepper          | $196.97
+ Yoplait Drink                       | $196.88
+ Coffee - Colombian, Portioned       | $196.70
+ Dried Cranberries                   | $196.55
+ Vinegar - Sherry                    | $196.44
+ Pimento - Canned                    | $196.43
+ Wheat - Soft Kernal Of Wheat        | $195.25
+ Sesame Seed Black                   | $194.79
+ Muffin - Blueberry Individual       | $194.62
+ Quail - Whole, Boneless             | $194.51
+ Chicken - Breast, 5 - 7 Oz          | $194.05
+ Rambutan                            | $193.74
+ Pasta - Bauletti, Chicken White     | $193.59
+ Steampan - Foil                     | $193.57
+ Napkin - Dinner, White              | $193.26
+ Remy Red Berry Infusion             | $192.42
+ Cookies Cereal Nut                  | $192.04
+ Wine - Chardonnay South             | $191.68
+ Pizza Pizza Dough                   | $191.27
+ Cake - Pancake                      | $191.14
+ Mcgillicuddy Vanilla Schnap         | $190.96
+ Pepper - Cubanelle                  | $190.83
+ Grenadine                           | $190.68
+ Chips Potato Swt Chilli Sour        | $190.55
+ Creme De Menth - White              | $190.53
+ Rice Pilaf, Dry,package             | $190.38
+ Salt - Sea                          | $190.34
+ Carrots - Mini Red Organic          | $190.24
+ Bread - Kimel Stick Poly            | $19.26
+ Foam Espresso Cup Plain White       | $19.00
+ Eggwhite Frozen                     | $189.71
+ Bar Mix - Lemon                     | $189.61
+ Bag - Clear 7 Lb                    | $189.60
+ Beef - Baby, Liver                  | $189.48
+ Dc Hikiage Hira Huba                | $189.27
+ Syrup - Pancake                     | $188.88
+ Fondant - Icing                     | $188.65
+ Pie Box - Cello Window 2.5          | $188.64
+ Vermouth - Sweet, Cinzano           | $187.58
+ Venison - Striploin                 | $187.48
+ Chicken - Whole                     | $186.60
+ Cattail Hearts                      | $186.42
+ Pasta - Fusili, Dry                 | $186.41
+ The Pop Shoppe Pinapple             | $186.04
+ Sandwich Wrap                       | $186.00
+ Muffins - Assorted                  | $185.99
+ Salmon - Atlantic, Fresh, Whole     | $185.78
+ Sprite - 355 Ml                     | $185.53
+ Aspic - Light                       | $185.04
+ Crab - Imitation Flakes             | $185.01
+ Muffin - Carrot Individual Wrap     | $184.91
+ Wine - Red, Cabernet Sauvignon      | $184.41
+ Cheese - St. Paulin                 | $184.29
+ Bread - Calabrese Baguette          | $184.26
+ Muffin - Mix - Mango Sour Cherry    | $183.80
+ Wine - Masi Valpolocell             | $183.64
+ Tea - Honey Green Tea               | $183.61
+ Cheese - Feta                       | $183.55
+ Maple Syrup                         | $183.42
+ Juice - Orangina                    | $183.40
+ Milk - 2% 250 Ml                    | $183.28
+ Garbage Bags - Black                | $182.73
+ Cake - Mini Potato Pancake          | $182.26
+ Pork - Sausage Casing               | $182.13
+ Cinnamon Buns Sticky                | $182.08
+ Muffin Chocolate Individual Wrap    | $181.65
+ Flour - All Purpose                 | $181.12
+ Fish - Base, Bouillion              | $180.42
+ Quail - Whole, Boneless             | $180.35
+ Carrots - Mini, Stem On             | $180.18
+ Lettuce - Treviso                   | $180.15
+ Star Fruit                          | $18.98
+ Lamb - Leg, Boneless                | $18.72
+ Ginger - Fresh                      | $18.61
+ Bagel - Everything                  | $18.06
+ Cheese - Brick With Pepper          | $179.56
+ Cheese - Augre Des Champs           | $179.09
+ Fish - Bones                        | $178.90
+ The Pop Shoppe Pinapple             | $178.73
+ Bread - Dark Rye                    | $178.41
+ Cake - French Pear Tart             | $178.18
+ Lamb - Bones                        | $178.11
+ Muffin Mix - Banana Nut             | $177.76
+ Cheese Cloth No 60                  | $177.55
+ Bandage - Fexible 1x3               | $177.22
+ Flour Dark Rye                      | $177.07
+ Chutney Sauce                       | $176.53
+ Tarragon - Primerba, Paste          | $176.33
+ Sobe - Lizard Fuel                  | $175.25
+ Lobak                               | $175.03
+ Capon - Breast, Double, Wing On     | $175.02
+ Shichimi Togarashi Peppeers         | $175.01
+ Cheese - Brick With Onion           | $174.84
+ Grapes - Red                        | $173.41
+ Mousse - Passion Fruit              | $173.29
+ Pasta - Fusili Tri - Coloured       | $172.78
+ Cranberries - Frozen                | $172.71
+ Lotus Root                          | $172.26
+ Goulash Seasoning                   | $172.16
+ Rappini - Andy Boy                  | $171.91
+ Beef - Bones, Cut - Up              | $171.62
+ Truffle Paste                       | $171.55
+ Fuji Apples                         | $170.54
+ Wine - Montecillo Rioja Crianza     | $170.41
+ Tea - Mint                          | $170.40
+ Lamb - Whole, Frozen                | $170.27
+ Marsala - Sperone, Fine, D.o.c.     | $17.99
+ Straws - Cocktale                   | $17.86
+ Juice - Ocean Spray Cranberry       | $17.81
+ Pur Source                          | $17.74
+ Doilies - 10, Paper                 | $17.35
+ Pasta - Fusili Tri - Coloured       | $169.97
+ 7up Diet, 355 Ml                    | $169.29
+ Wine - Maipo Valle Cabernet         | $168.89
+ Flour - Strong                      | $168.86
+ Pork - Smoked Back Bacon            | $168.80
+ Wine - Cave Springs Dry Riesling    | $168.55
+ Wine - Chateauneuf Du Pape          | $168.48
+ Edible Flower - Mixed               | $168.35
+ Yogurt - Plain                      | $168.26
+ Olives - Stuffed                    | $168.25
+ Creme De Banane - Marie             | $168.21
+ Salmon - Atlantic, Fresh, Whole     | $168.03
+ Wine - Carmenere Casillero Del      | $167.76
+ V8 Splash Strawberry Banana         | $167.30
+ Filo Dough                          | $166.72
+ Oven Mitts - 15 Inch                | $166.66
+ Chef Hat 20cm                       | $166.59
+ Apple - Royal Gala                  | $166.35
+ Crab - Claws, 26 - 30               | $166.12
+ Potatoes - Pei 10 Oz                | $165.69
+ Chivas Regal - 12 Year Old          | $165.65
+ Southern Comfort                    | $164.68
+ Tea - Black Currant                 | $164.66
+ Melon - Honey Dew                   | $164.22
+ Pork - Bacon,back Peameal           | $163.95
+ Amaretto                            | $163.87
+ Corn Meal                           | $163.46
+ Towel Dispenser                     | $163.23
+ Vodka - Smirnoff                    | $162.97
+ Tequila Rose Cream Liquor           | $162.88
+ Bread - Assorted Rolls              | $162.67
+ Aromat Spice / Seasoning            | $161.96
+ Turkey Leg With Drum And Thigh      | $161.55
+ Lettuce - Romaine, Heart            | $161.52
+ Tart Shells - Savory, 4             | $161.36
+ Cloves - Ground                     | $161.03
+ Cheese - Woolwich Goat, Log         | $160.84
+ Danishes - Mini Raspberry           | $160.60
+ Sauce - Balsamic Viniagrette        | $160.28
+ Pasta - Fusili Tri - Coloured       | $16.86
+ Marzipan 50/50                      | $16.76
+ Bread - Hot Dog Buns                | $16.74
+ Oranges - Navel, 72                 | $16.25
+ Wine - Harrow Estates, Vidal        | $16.09
+ Flower - Dish Garden                | $159.97
+ Venison - Striploin                 | $159.76
+ Flour - Semolina                    | $159.76
+ Seabream Whole Farmed               | $159.69
+ Potatoes - Instant, Mashed          | $159.49
+ Wine - George Duboeuf Rose          | $159.49
+ Bag - Bread, White, Plain           | $159.40
+ Cleaner - Pine Sol                  | $159.24
+ Tea - Earl Grey                     | $158.95
+ Orange - Blood                      | $158.76
+ Figs                                | $158.57
+ Tortillas - Flour, 8                | $158.42
+ Canada Dry                          | $158.20
+ Vinegar - Balsamic, White           | $158.18
+ Squash - Acorn                      | $157.95
+ Raisin - Dark                       | $157.69
+ Tomatoes - Vine Ripe, Red           | $156.71
+ Monkfish Fresh - Skin Off           | $156.58
+ Wine - White, Pinot Grigio          | $156.23
+ Flavouring - Orange                 | $156.06
+ Peas Snow                           | $155.92
+ Shrimp, Dried, Small / Lb           | $155.79
+ Nut - Pumpkin Seeds                 | $155.16
+ Garlic - Primerba, Paste            | $154.97
+ Calypso - Pineapple Passion         | $154.97
+ Dip - Tapenade                      | $154.84
+ Cup - 3.5oz, Foam                   | $154.15
+ Icecream - Dstk Super Cone          | $154.02
+ Nut - Pecan, Pieces                 | $153.91
+ Wine - Mondavi Coastal Private      | $153.61
+ Pepper - Red Chili                  | $153.24
+ Fruit Mix - Light                   | $152.39
+ Beef - Ox Tongue                    | $152.29
+ Nut - Chestnuts, Whole              | $152.23
+ Bread Base - Italian                | $152.16
+ Bay Leaf                            | $151.84
+ Beef Wellington                     | $151.74
+ Soup Bowl Clear 8oz92008            | $151.60
+ Juice - Apple 284ml                 | $151.27
+ Lobster - Live                      | $151.21
+ Sauce - Apple, Unsweetened          | $151.06
+ Dried Apple                         | $150.50
+ Lid - 10,12,16 Oz                   | $150.24
+ Quiche Assorted                     | $15.81
+ Longos - Cheese Tortellini          | $15.76
+ Wine - Clavet Saint Emilion         | $15.63
+ Beer - Blue Light                   | $15.24
+ Port - 74 Brights                   | $149.66
+ Bag - Bread, White, Plain           | $149.18
+ Wine - Pinot Grigio Collavini       | $149.17
+ Beef - Tenderloin - Aa              | $148.77
+ Salmon - Canned                     | $148.28
+ Wine - Two Oceans Sauvignon         | $148.12
+ Cake Slab                           | $148.12
+ Truffle Cups Green                  | $147.98
+ Allspice - Jamaican                 | $147.83
+ Chicken Thigh - Bone Out            | $147.77
+ Potatoes - Peeled                   | $147.25
+ Wine - Mas Chicet Rose, Vintage     | $147.18
+ Chef Hat 25cm                       | $146.60
+ Steampan Lid                        | $146.45
+ Oil - Sunflower                     | $145.98
+ Potatoes - Mini Red                 | $145.69
+ Devonshire Cream                    | $145.46
+ Iced Tea - Lemon, 460 Ml            | $144.91
+ Water - Spring Water 500ml          | $143.84
+ Apricots - Dried                    | $143.76
+ Cilantro / Coriander - Fresh        | $143.48
+ Pumpkin                             | $143.44
+ Turnip - White                      | $143.33
+ Lid Tray - 12in Dome                | $142.75
+ Coffee Decaf Colombian              | $142.32
+ Soup - Campbells, Chix Gumbo        | $141.77
+ Wine - White, Ej                    | $141.68
+ Halibut - Fletches                  | $140.95
+ Nut - Almond, Blanched, Sliced      | $140.95
+ Chicken - White Meat With Tender    | $140.82
+ Wine - White, Cooking               | $140.44
+ Magnotta Bel Paese Red              | $139.19
+ Grapefruit - Pink                   | $138.82
+ Huck White Towels                   | $138.01
+ Fish - Atlantic Salmon, Cold        | $138.00
+ Gatorade - Xfactor Berry            | $137.69
+ Bread - Raisin Walnut Oval          | $137.59
+ Mushroom - Trumpet, Dry             | $137.30
+ Quail - Whole, Boneless             | $136.52
+ Cheese - Brick With Onion           | $136.29
+ Liqueur - Melon                     | $136.03
+ Wine - Sherry Dry Sack, William     | $135.78
+ Bread - Pita                        | $135.51
+ Lamb Rack Frenched Australian       | $134.95
+ Gherkin - Sour                      | $134.85
+ Coriander - Ground                  | $134.82
+ Wine - Alsace Gewurztraminer        | $134.15
+ Wine - Cave Springs Dry Riesling    | $133.69
+ Pepper - Black, Whole               | $133.48
+ Quiche Assorted                     | $133.41
+ Snapple Lemon Tea                   | $132.94
+ Coconut - Whole                     | $132.77
+ Soup - Campbells Bean Medley        | $132.48
+ Wine - Fontanafredda Barolo         | $132.35
+ Island Oasis - Raspberry            | $132.18
+ Pastry - Carrot Muffin - Mini       | $131.84
+ Beef - Rib Roast, Cap On            | $131.83
+ Neckerchief Blck                    | $131.11
+ Chicken - Bones                     | $130.62
+ Mushroom - Oyster, Fresh            | $130.09
+ Tomatoes - Heirloom                 | $129.28
+ Wine - Sake                         | $129.27
+ Beer - Camerons Cream Ale           | $128.54
+ Bread Bowl Plain                    | $128.33
+ Sobe - Lizard Fuel                  | $128.11
+ Beef - Shank                        | $127.89
+ Chocolate - Milk                    | $127.17
+ Pasta - Penne, Lisce, Dry           | $126.23
+ Chilli Paste, Ginger Garlic         | $125.78
+ Pepper - Green                      | $125.58
+ Sea Bass - Fillets                  | $125.37
+ Wine - Soave Folonari               | $124.85
+ Eggplant - Asian                    | $124.70
+ Chocolate - Milk                    | $123.88
+ Pasta - Cappellini, Dry             | $123.77
+ Tomatoes - Grape                    | $123.14
+ Yams                                | $122.74
+ Coffee Cup 8oz 5338cd               | $122.56
+ Transfer Sheets                     | $122.40
+ Sunflower Seed Raw                  | $122.31
+ Flour - Semolina                    | $121.84
+ Cheese - Bocconcini                 | $121.70
+ Nut - Pecan, Pieces                 | $120.02
+ Soup - Cream Of Broccoli            | $119.86
+ Pizza Pizza Dough                   | $119.62
+ Zucchini - Mini, Green              | $119.05
+ Pie Shell - 5                       | $118.61
+ Shrimp - 21/25, Peel And Deviened   | $118.26
+ Dried Peach                         | $118.24
+ Food Colouring - Pink               | $118.19
+ Table Cloth 120 Round White         | $117.64
+ Maintenance Removal Charge          | $116.99
+ Soup - French Onion, Dry            | $116.65
+ Cheese - Le Cru Du Clocher          | $116.40
+ Spice - Pepper Portions             | $116.35
+ Ice Cream Bar - Oreo Sandwich       | $116.10
+ Cakes Assorted                      | $115.68
+ Wine - Sauvignon Blanc              | $115.12
+ Chocolate - Milk Coating            | $114.87
+ Devonshire Cream                    | $114.53
+ Sterno - Chafing Dish Fuel          | $114.34
+ Coffee Swiss Choc Almond            | $114.24
+ Lamb - Pieces, Diced                | $113.58
+ Milk - Condensed                    | $113.26
+ Beer - Tetleys                      | $113.01
+ Blueberries                         | $112.90
+ Ecolab Crystal Fusion               | $112.27
+ Beer - Sleemans Cream Ale           | $112.16
+ Shrimp, Dried, Small / Lb           | $112.03
+ Ham - Proscuitto                    | $111.98
+ Wine - Red, Colio Cabernet          | $111.17
+ Bread Sour Rolls                    | $109.86
+ Glass Clear 7 Oz Xl                 | $109.85
+ Lighter - Bbq                       | $109.79
+ Wine - Chateauneuf Du Pape          | $109.36
+ Fish - Bones                        | $109.10
+ Pie Box - Cello Window 2.5          | $108.99
+ Mushrooms - Honey                   | $107.96
+ Dried Cherries                      | $107.69
+ Mcgillicuddy Vanilla Schnap         | $107.45
+ Swiss Chard                         | $106.90
+ Wine - Fume Blanc Fetzer            | $106.78
+ Spoon - Soup, Plastic               | $106.75
+ Beef - Chuck, Boneless              | $106.47
+ Ice Cream Bar - Rolo Cone           | $106.42
+ Bread - Focaccia Quarter            | $106.36
+ Chicken - Bones                     | $106.29
+ Salt - Rock, Course                 | $106.23
+ Cabbage Roll                        | $105.82
+ Onions - Red                        | $104.99
+ Apples - Sliced / Wedge             | $104.75
+ Wine - Rioja Campo Viejo            | $104.26
+ Beef - Ground Lean Fresh            | $104.13
+ Tortillas - Flour, 12               | $104.12
+ Venison - Denver Leg Boneless       | $103.93
+ Dill - Primerba, Paste              | $103.85
+ Mackerel Whole Fresh                | $103.75
+ Vaccum Bag - 14x20                  | $103.58
+ Pike - Frozen Fillet                | $103.10
+ Lamb - Bones                        | $103.04
+ Lobster - Baby, Boiled              | $102.92
+ Doilies - 10, Paper                 | $102.23
+ Pastry - Trippleberry Muffin - Mini | $101.43
+ Lettuce - Romaine                   | $101.05
+ Wine - White, Ej                    | $100.48
+(969 rows)
+
+

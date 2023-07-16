@@ -1,0 +1,118 @@
+ SELECT DISTINCT country FROM ecommerce_sales ORDER BY country;
+             country
+----------------------------------
+ Aland Islands
+ Albania
+ Angola
+ Argentina
+ Armenia
+ Azerbaijan
+ Bahamas
+ Bangladesh
+ Belarus
+ Belize
+ Bhutan
+ Bolivia
+ Bosnia and Herzegovina
+ Brazil
+ Bulgaria
+ Cameroon
+ Canada
+ Chile
+ China
+ Colombia
+ Comoros
+ Costa Rica
+ Croatia
+ Cuba
+ Czech Republic
+ Democratic Republic of the Congo
+ Dominica
+ Dominican Republic
+ Ecuador
+ Egypt
+ El Salvador
+ Ethiopia
+ Finland
+ France
+ Gabon
+ Gambia
+ Germany
+ Greece
+ Guam
+ Guatemala
+ Guinea
+ Haiti
+ Honduras
+ Indonesia
+ Iraq
+ Ireland
+ Italy
+ Ivory Coast
+ Japan
+ Jordan
+ Kazakhstan
+ Kiribati
+ Kyrgyzstan
+ Laos
+ Latvia
+ Libya
+ Macedonia
+ Madagascar
+ Malaysia
+ Mali
+ Malta
+ Marshall Islands
+ Mauritius
+ Mexico
+ Mongolia
+ Morocco
+ Mozambique
+ Myanmar
+ Nepal
+ Netherlands
+ Nicaragua
+ Niger
+ Nigeria
+ Norway
+ Pakistan
+ Palestinian Territory
+ Panama
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Republic of the Congo
+ Russia
+ Saint Pierre and Miquelon
+ San Marino
+ Senegal
+ Serbia
+ Sierra Leone
+ Slovenia
+ Solomon Islands
+ Somalia
+ South Africa
+ South Korea
+ Spain
+ Sudan
+ Sweden
+ Syria
+ Tajikistan
+ Tanzania
+ Thailand
+ Tunisia
+ Turkmenistan
+ Uganda
+ Ukraine
+ United Kingdom
+ United States
+ Uruguay
+ Uzbekistan
+ Venezuela
+ Vietnam
+ Yemen
+(111 rows)
+
+
+These distinct query option helps to removes the duplicates i.e. here it removes the repeating same country names and gives the name once
